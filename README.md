@@ -6,10 +6,11 @@ El proyecto estudia la clasificación de estados afectivos a partir de señales 
 
 Los datos utilizados en este trabajo proceden del dataset publicado en Zenodo:
 
-> **Physiological signals from three wearable devices recorded in real-world conditions**  
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17985867.svg)](https://doi.org/10.5281/zenodo.17985867)
+**Physiological signals from three wearable devices recorded in real-world conditions**  
 
-Los datos no se incluyen en el repositorio. Para reproducir los experimentos, debe descargarse el dataset original y colocar localmente en `data/` el subconjunto correspondiente a **EmotiBit volar**, procesado previamente como se describe en el artículo.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17985866.svg)](https://doi.org/10.5281/zenodo.17985866)
+
+> Los datos no se incluyen en el repositorio. Para reproducir los experimentos, debe descargarse el dataset original y colocar localmente en `data/` el subconjunto correspondiente a **EmotiBit volar**, procesado previamente como se describe en el artículo.
 
 La estructura esperada por los notebooks es:
 
