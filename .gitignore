@@ -43,6 +43,7 @@ features_sin_solapamiento/**
 figures/**
 !figures/.gitkeep
 !figures/README.md
+!figures/MICIU.png
 
 # Temporary/custom paper figures generated locally
 figuras_pdf/
