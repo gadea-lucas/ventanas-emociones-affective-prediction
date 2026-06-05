@@ -8,7 +8,7 @@ Los datos utilizados en este trabajo proceden del dataset publicado en Zenodo:
 
 **Physiological signals from three wearable devices recorded in real-world conditions**  
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17985866.svg)](https://doi.org/10.5281/zenodo.17985866)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17985866-blue.svg)](https://doi.org/10.5281/zenodo.19218368)
 
 > Los datos no se incluyen en el repositorio. Para reproducir los experimentos, debe descargarse el dataset original y colocar localmente en `data/` el subconjunto correspondiente a **EmotiBit volar**, procesado previamente como se describe en el artículo.
 
