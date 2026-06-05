@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local data copied from Zenodo
+data/**
+!data/
+!data/.gitkeep
+!data/README.md
+
+# Generated feature tables and benchmark artifacts
+features_con_solapamiento/**
+!features_con_solapamiento/.gitkeep
+!features_con_solapamiento/README.md
+features_sin_solapamiento/**
+!features_sin_solapamiento/.gitkeep
+!features_sin_solapamiento/README.md
+
+# Generated figures
+figures/**
+!figures/.gitkeep
+!figures/README.md
+
+# Temporary/custom paper figures generated locally
+figuras_pdf/
+tmp_pdf_renders/
+
+# Large/generated confusion-matrix exports outside the curated figures folder
+confusion_matrices_por_user*/
+confusion_matrices_pdf/
+
+# Ad-hoc PDFs generated at repo root
+window_*.pdf
+
+# Model artifacts, if generated later
+models/
+*.pkl
+*.pickle
+*.joblib
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
